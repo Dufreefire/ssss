@@ -1,0 +1,5 @@
+Cài nodejs về và chạy cmd ở mục cron
+
+cài nod_modules 
+npm i 
+sau đó vào file cron.js thay link cron là sử dụng thôi
